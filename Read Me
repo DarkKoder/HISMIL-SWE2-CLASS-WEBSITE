@@ -1,0 +1,81 @@
+1. Project Overview
+........................................................................................
+Students will build a class website consisting of five main pages:
+
+Home Page: An introduction to the class, a welcoming message, and highlights.
+About Page: Details about the class, mission, vision, and history.
+Gallery Page: A photo gallery showcasing class events and projects.
+Services Page: Information about what the class offers, such as projects, activities, or resources.
+Contact Page: A form or details for getting in touch, like email, phone number, or physical address.
+
+2. Project Roles and Responsibilities
+..............................................................................................
+Five groups, each responsible for a different part of the project:
+
+Group 1: Home Page Team
+
+Task: Design and develop the Home Page using HTML, CSS, and possibly JavaScript for interactive elements.
+Responsibilities: Write content, create a welcoming layout, and ensure navigation links are present.
+Group 2: About Page Team
+
+Task: Develop the About Page with information about the class.
+Responsibilities: Focus on clear content, a well-structured layout, and any relevant images or graphics.
+Group 3: Gallery Page Team
+
+Task: Build the Gallery Page, including an image grid and a lightbox feature.
+Responsibilities: Optimize images for web use, create a dynamic and responsive gallery, and add captions where needed.
+Group 4: Services Page Team
+
+Task: Develop the Services Page, listing class offerings or activities.
+Responsibilities: Structure the content well and use icons or images to represent each service clearly.
+Group 5: Contact Page Team
+
+Task: Create the Contact Page with a form and contact information.
+Responsibilities: Implement form validation (using JavaScript), style the form neatly, and add a Google Map if applicable.
+
+
+
+1. Project Overview
+Your students will build a class website consisting of five main pages:
+
+Home Page: An introduction to the class, a welcoming message, and highlights.
+About Page: Details about the class, mission, vision, and history.
+Gallery Page: A photo gallery showcasing class events and projects.
+Services Page: Information about what the class offers, such as projects, activities, or resources.
+Contact Page: A form or details for getting in touch, like email, phone number, or physical address.
+
+2. Project Roles and Responsibilities
+
+Group 1: Home Page Team
+
+Task: Design and develop the Home Page using HTML, CSS, and possibly JavaScript for interactive elements.
+Responsibilities: Write content, create a welcoming layout, and ensure navigation links are present.
+Group 2: About Page Team
+
+Task: Develop the About Page with information about the class.
+Responsibilities: Focus on clear content, a well-structured layout, and any relevant images or graphics.
+Group 3: Gallery Page Team
+
+Task: Build the Gallery Page, including an image grid and a lightbox feature.
+Responsibilities: Optimize images for web use, create a dynamic and responsive gallery, and add captions where needed.
+Group 4: Services Page Team
+
+Task: Develop the Services Page, listing class offerings or activities.
+Responsibilities: Structure the content well and use icons or images to represent each service clearly.
+Group 5: Contact Page Team
+
+Task: Create the Contact Page with a form and contact information.
+Responsibilities: Implement form validation (using JavaScript), style the form neatly, and add a Google Map if applicable.
+
+
+3. Git Workflow Guidelines
+................................................................................................................................................
+Branching Strategy:
+
+Each team will create a separate branch for their part of the project, e.g., home-page, about-page, gallery-page, etc.
+Students should never work directly on the main branch. Instead, all work should be done in feature branches.
+Commits and Pull Requests:
+
+Make small, frequent commits with clear messages, e.g., Added header section to Home Page.
+When a team finishes a feature, they will open a pull request (PR) to merge their branch into main.
+Other students should review the PR, suggest changes if necessary, and approve it before merging.

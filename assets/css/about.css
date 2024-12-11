@@ -70,14 +70,14 @@
 
 .hero-image{
     flex: 1;
-    width: 600px;
+    width: 500px;
     margin: auto;
     animation: fadeInRight 5s ease;
 
 }
 img{
-    width: 80%;
-    height: auto;
+    width: 70%;
+    height: 450px;
     border-radius: 10px;
 }
 @media screen and (max-width: 768px){
